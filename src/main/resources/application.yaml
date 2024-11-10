@@ -1,0 +1,7 @@
+spring:
+  cli:
+    hosts:
+      bitbucket.svc.elca.ch:
+        username: lusv
+        oauthToken: BBDC-NDQzOTA0NjM2MDA0OqzLFjPOVJ1V12WoCy3axZxlvuE3
+
