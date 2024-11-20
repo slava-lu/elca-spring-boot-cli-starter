@@ -7,8 +7,15 @@ project-repositories:
   - "java-21"
   - "starter"
 - name: "elca-web"
-  description: "Add Spring REST API server (Spring Web)."
+  description: "Add Spring REST API server"
   url: "https://github.com/slava-lu/elca-spring-boot-cli-web"
   tags:
   - "java-21"
   - "web"
+- name: "elca-jpa"
+  description: "Add Java Persistence API"
+  url: "https://github.com/slava-lu/elca-spring-boot-cli-jpa"
+  tags:
+    - "java-21"
+    - "jpa"
+
