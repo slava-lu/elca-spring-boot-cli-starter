@@ -40,3 +40,4 @@ spring boot new my-app elca-starter
 ## Additional info
 * To learn more about the Spring CLI tool, visit https://docs.spring.io/spring-cli/reference/index.html
 * To learn more about ELCA techniques, visit  https://confluence.svc.elca.ch/display/CCJAVA/ELCA+techniques
+* This template is maintained by [Java CC](https://confluence.svc.elca.ch/display/CCJAVA)
