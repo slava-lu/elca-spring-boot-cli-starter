@@ -9,6 +9,7 @@ to help you quickly bootstrap new applications or add functionality to existing 
 1. **ecla-starter**. Contains essential dependencies that are useful in every project.
 2. **ecla-web**. Includes dependencies for building a REST API server.
 3. **ecla-jpa**. Includes dependencies for Java Persistence API.
+4. **ecla-ddd**. Starter DDD project.
 
 ## Prerequisites
 * Java Development Kit (JDK) 17 or higher. [Installation instruction](https://www.oracle.com/java/technologies/downloads/)

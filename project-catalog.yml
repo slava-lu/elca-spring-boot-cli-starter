@@ -1,21 +1,26 @@
 ---
 project-repositories:
-- name: "elca-starter"
-  description: "Starter project with base modules"
-  url: "https://github.com/slava-lu/elca-spring-boot-cli-starter"
-  tags:
-  - "java-21"
-  - "starter"
-- name: "elca-web"
-  description: "Add Spring REST API server"
-  url: "https://github.com/slava-lu/elca-spring-boot-cli-web"
-  tags:
-  - "java-21"
-  - "web"
-- name: "elca-jpa"
-  description: "Add Java Persistence API"
-  url: "https://github.com/slava-lu/elca-spring-boot-cli-jpa"
-  tags:
-    - "java-21"
-    - "jpa"
-
+  - name: "elca-starter"
+    description: "Starter project with base modules"
+    url: "https://github.com/slava-lu/elca-spring-boot-cli-starter"
+    tags:
+      - "java-21"
+      - "starter"
+  - name: "elca-web"
+    description: "Add Spring REST API server"
+    url: "https://github.com/slava-lu/elca-spring-boot-cli-web"
+    tags:
+      - "java-21"
+      - "web"
+  - name: "elca-jpa"
+    description: "Add Java Persistence API"
+    url: "https://github.com/slava-lu/elca-spring-boot-cli-jpa"
+    tags:
+      - "java-21"
+      - "jpa"
+  - name: "elca-ddd"
+    description: "Starter DDD project"
+    url: "https://github.com/slava-lu/elca-spring-boot-cli-ddd"
+    tags:
+      - "java-21"
+      - "ddd"
