@@ -1,4 +1,4 @@
-package com.example.app.todo;
+package ch.elca.app.todo;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
