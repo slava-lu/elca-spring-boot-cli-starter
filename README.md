@@ -37,13 +37,15 @@ spring boot new my-app elca-starter
   --package-name com.example.mynewproject
 ```
 
-## Elca techniques - Null-safety annotations
+## Elca techniques
+
+### Null-safety annotations
 Using Default Nullability Annotations allows us to declare that all types within a package are non-null
 by default unless explicitly annotated as nullable, significantly reducing the likelihood of null pointer exceptions.
 This practice enforces consistent nullability across the codebase, enhancing code safety, readability,
 and aiding static analysis tools in detecting potential nullability issues. [Read more](https://confluence.svc.elca.ch/display/CCJAVA/Null-safety+annotations+with+spring+and+lombok)
 
-## Elca techniques - Unit testing: guidelines for naming
+### Unit testing: guidelines for naming
 Naming-Convention for unit test classes: <class-to-be-tested>Test
 
 Test methods should follow a consistent naming pattern across the project.
@@ -55,7 +57,7 @@ The naming pattern should help to identify the following aspects:
 
 You can see the example in elca-jpa project. [Read more](https://confluence.svc.elca.ch/display/CCJAVA/Unit+testing%3A+guidelines+for+naming%2C+structure+and+documentation)
 
-## Other Elca techniques
+### Other Elca techniques
 * To learn more about ELCA techniques, visit  https://confluence.svc.elca.ch/display/CCJAVA/ELCA+techniques
 
 ## Additional info
