@@ -12,7 +12,7 @@ to help you quickly bootstrap new applications or add functionality to existing 
 4. **ecla-ddd**. Starter DDD project.
 
 ## Prerequisites
-* Java Development Kit (JDK) 17 or higher. [Installation instruction](https://www.oracle.com/java/technologies/downloads/)
+* Java Development Kit (JDK) 21 or higher. [Installation instruction](https://www.oracle.com/java/technologies/downloads/)
 * Spring CLI installed on your system. [Installation instruction](https://docs.spring.io/spring-cli/reference/installation.html)
 
 
@@ -30,7 +30,7 @@ to help you quickly bootstrap new applications or add functionality to existing 
 if you want to create a new project with custom metadata, you can use additional options in `spring boot new` command, like this:
 ```
 spring boot new my-app elca-starter 
-  --group-id com.example 
+  --group-id ch.elca 
   --artifact-id my-new-project 
   --version 1.0.0 
   --description "A sample Spring project" 
